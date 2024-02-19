@@ -5,7 +5,7 @@ import (
 )
 
 /*
-// Method 1
+// Method 1 方法1
 // CelsiusToFahrenheit Transforms Celsius to Fahrenheit
 // celsiusToFahrenheit 将摄氏度转换为华氏度
 func celsiusToFahrenheit(c float64) float64 {
@@ -33,7 +33,7 @@ func main() {
 }
 */
 
-// Method 2
+// Method 2 方法2
 // fahrenheitToCelsius Transforms Fahrenheit to Celsius
 // fahrenheitToCelsius 将华氏度转换为摄氏度
 func fahrenheitToCelsius(f float64) float64 {
